@@ -1,3 +1,4 @@
+![loading](https://github.com/cheinyong/cheinyong/blob/main/%E6%9D%83%E5%BF%97%E9%BE%991.jpg)
 <h1 align="center">Hi 👋, I'm chein yong</h1>
 - 🌱 I’m currently learning **react,express,next**
 
