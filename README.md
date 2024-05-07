@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm chein yong  ![loading](https://github.com/cheinyong/cheinyong/blob/main/%E6%9D%83%E5%BF%97%E9%BE%991.jpg)</h1>
+<h1 align="center">Hi 👋, I'm chein yong  </h1>
 - 🌱 I’m currently learning **react,express,next**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cheinyong](https://github.com/cheinyong)
