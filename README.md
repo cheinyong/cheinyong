@@ -7,7 +7,7 @@
 - 💬 Ask me about **react,express**
 
 - 📫 How to reach me **https://www.facebook.com/chein.yone/**
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheinyong)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheinyong&theme=react&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
